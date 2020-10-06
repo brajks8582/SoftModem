@@ -11,11 +11,11 @@ SoftModem	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-begin	KEYWORD2
-end	KEYWORD2
+begin   	KEYWORD2
+end	      KEYWORD2
 available	KEYWORD2
-read	KEYWORD2
-write	KEYWORD2
+read	    KEYWORD2
+write	    KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
